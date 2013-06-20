@@ -1,0 +1,22 @@
+{
+  "name": "Feminist Bat Signal",
+  "description": "Blasting out the call for backup",
+  "launch_path": "/fembat/index.html",
+  "icons": {
+    "128": "/fembat/images/octocat.png"
+  },
+  "developer": {
+    "name": "Lukas Blakk",
+    "url": "http://lsblakk.github.io/fembat/index.html"
+  },
+  "default_locale": "en",
+  "permissions": {
+    "contacts": {
+      "description": "Required for autocompletion in the share screen",
+      "access": "readcreate"
+      },
+    "alarms": {
+      "description": "Required to schedule notifications"
+    }
+  }
+}
