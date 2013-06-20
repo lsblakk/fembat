@@ -3,7 +3,8 @@
   "description": "Blasting out the call for backup",
   "launch_path": "/fembat/index.html",
   "icons": {
-    "128": "/fembat/images/octocat.png"
+    "30": "/fembat/images/octocat.png",
+    "60": "/fembat/images/octocat-2x.png"
   },
   "developer": {
     "name": "Lukas Blakk",
